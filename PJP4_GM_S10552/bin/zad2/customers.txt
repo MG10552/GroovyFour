@@ -1,0 +1,10 @@
+﻿c00001;Kowalski Jan;bułka;2;100
+c00002;Abacki Adam;pepsi;4.5;12
+c00003;Babacki Bartosz;ser krolewski;2.99;2
+c00004;Cabacki Cecyl;mydło;6;1
+c00005;Dabacki Damian;długopis;12;6
+c00006;Abacki Adam;ser feta;2.30;3
+c00001;Kowalski Jan;herbatniki;3;1
+c00007;Cokolwiek Dawid;maslo;3;1
+c00002;Abacki Adam;chleb;20;1.99
+c00002;Abacki Adam;szczypior;5;3
